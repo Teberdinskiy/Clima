@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "Поиск"; ObjectID = "6yE-Zc-WMc"; */
+"6yE-Zc-WMc.placeholder" = "Поиск";
+
+/* Class = "UILabel"; text = "Teberda"; ObjectID = "JuR-W7-Eej"; */
+"JuR-W7-Eej.text" = "Teberda";
+
+/* Class = "UILabel"; text = "°"; ObjectID = "Kjw-C0-9Xx"; */
+"Kjw-C0-9Xx.text" = "°";
+
+/* Class = "UILabel"; text = "21"; ObjectID = "Per-2O-6Ah"; */
+"Per-2O-6Ah.text" = "21";
+
+/* Class = "UILabel"; text = "C"; ObjectID = "if2-rN-aMb"; */
+"if2-rN-aMb.text" = "C";
